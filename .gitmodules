@@ -1,0 +1,12 @@
+[submodule "coffee-service-java"]
+	path = coffee-service-java
+	url = git@github.com:mkheck/fsr-coffee-service-java.git
+[submodule "coffee-client-java"]
+	path = coffee-client-java
+	url = git@github.com:mkheck/fsr-coffee-client-java.git
+[submodule "coffee-service-kotlin"]
+	path = coffee-service-kotlin
+	url = git@github.com:mkheck/fsr-coffee-service-kotlin.git
+[submodule "coffee-client-kotlin"]
+	path = coffee-client-kotlin
+	url = git@github.com:mkheck/fsr-coffee-client-kotlin.git
